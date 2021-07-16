@@ -1,10 +1,14 @@
-# constraint-tools
+## Demo 
+
+Follow this link to see a video of the User Interface: 
+
+https://drive.google.com/file/d/1Y23Ubta2g3nfuu5rt9li4_RRwFpdH7lt/view?usp=sharing
 
 ## Installation
 
+Clone and enter this directory, and then: 
+
 ```
-git clone https://github.com/quinlan-lab/constraint-tools
-cd constraint-tools
 bash install.sh 
 bash build-vue-app.sh
 ```
@@ -20,8 +24,6 @@ bash tests/test.sh
 
 Follow the instructions at the command line to view a web app that visualizes mutation counts as a function of genomic coordinate.  
 
-A plot of estimated mutation probabilities that are fed into the model can be found here: https://github.com/quinlan-lab/constraint-tools/blob/main/tests/plot_mutation_probabilities.ipynb
- 
 ## Usage
 
 Assuming that the path to the `constraint-tools` directory on your filesystem is `${root}`, usage is:
