@@ -2,7 +2,7 @@
 
 Follow this link to see a video of the User Interface: 
 
-https://drive.google.com/file/d/1Y23Ubta2g3nfuu5rt9li4_RRwFpdH7lt/view?usp=sharing
+https://drive.google.com/file/d/1cmn083ruUX5KCIYWPqQLlW3a0bgpAm07/view
 
 ## Installation
 
